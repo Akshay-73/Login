@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="login_register">Login/Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="enter_mail">Enter Mail</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="already_registered_login_account">Already Registered?Login Account</string>
+    <string name="logout">LogOut</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_account_create_new">Don\'t Have Account? Create New</string>
+    <string name="open_firebase">Open FireBase</string>
+    <string name="teacher_name">Teacher Name</string>
+    <string name="save_teacher">Save Teacher</string>
+
+    <array name="teacherClass">
+        <item>Math</item>
+        <item>Science</item>
+        <item>English</item>
+        <item>Hindi</item>
+        <item>History</item>
+    </array>
+    <string name="title_activity_maps">Map</string>
+    <string name="search">Search</string>
+    <string name="comment">Comment</string>
+    <string name="post">Post</string>
+    <string name="retrofit_signup">Retrofit SignUp</string>
+    <string name="rxjava">RxJava</string>
+    <string name="open_map">Open Map</string>
+    <string name="fire_base">Fire Base</string>
+    <string name="submit">Submit</string>
+    <string name="user_id">User Id</string>
+    <string name="title">Title</string>
+    <string name="text">Text</string>
+    <string name="register">Register</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="open_list">Open List</string>
+</resources>
